@@ -1,4 +1,4 @@
-# CI Workflow for all pushes
+# CI Workflow for all pushes here
 
 name: Run Gradle build on push
 on: push
